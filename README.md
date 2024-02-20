@@ -1,7 +1,5 @@
-User
-descreva de uma forma formal um read me sobre um projeto de automacao web e api conde foram utilizazadas as seguintes ferramentas cypress, biblioteca faker js
-ChatGPT
-README - Projeto de Automação Web e API
+
+Projeto de Automação Web e API
 Descrição do Projeto
 Este repositório contém um projeto de automação destinado a testes em ambientes Web e API. O objetivo principal é garantir a qualidade e confiabilidade do sistema por meio da automação de casos de teste. O projeto utiliza as ferramentas Cypress e Faker.js para facilitar o desenvolvimento e execução de testes automatizados.
 
