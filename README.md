@@ -33,7 +33,7 @@ O projeto está organizado da seguinte forma:
 1. Clone o repositório para sua máquina local.
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+https://github.com/humbjd/des_automation.git
 ```
 
 2. Instale as dependências do projeto.
@@ -45,7 +45,7 @@ npm install
 3. Execute os testes usando o comando Cypress.
 
 ```
-npm run test
+npx cypress open
 ```
 
 ## Contribuições
